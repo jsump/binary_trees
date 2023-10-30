@@ -7,6 +7,7 @@
 #include <string.h>
 #include <ctype.h>
 #include <errno.h>
+#include <stddef.h>
 
 /**
  * struct binary_tree_s - Binary tree node
